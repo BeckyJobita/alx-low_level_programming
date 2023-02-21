@@ -1,8 +1,8 @@
 #include"main.h"
 /**
  * main -Entry
+ * char -a data type that holds one character (letter, number, etc.) of data.
  * Return: 0
- * char-used to represent character variables
  */
 int _putchar(char);
 
