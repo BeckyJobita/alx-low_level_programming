@@ -1,11 +1,9 @@
 #include"main.h"
 /**
  * main -Entry
- * char -a data type that holds one character (letter, number, etc.) of data.
  * Return: 0
+ * char-a data type that holds one character (letter, number, etc.) of data.
  */
-int _putchar(char);
-
 int main(void)
 {
 	char *ch = "_putchar";
